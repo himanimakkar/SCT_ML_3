@@ -1,0 +1,7 @@
+dataset/
+model/
+__pycache__/
+*.pkl
+*.zip
+*.jpg
+*.png
